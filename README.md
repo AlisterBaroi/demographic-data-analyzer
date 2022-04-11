@@ -1,7 +1,6 @@
-### Assignment
-
 # Demographic Data Analyzer
-
+Demo: [Replit](https://replit.com/@AlisterBaroi/boilerplate-demographic-data-analyzer) [Colab](https://colab.research.google.com/github/AlisterBaroi/demographic-data-analyzer/blob/main/Colab%20Demo/demographic_data_analyzer_freeCodeCamp_Assignment.ipynb)
+### Assignment
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
 
 |    |   age | workclass        |   fnlwgt | education   |   education-num | marital-status     | occupation        | relationship   | race   | sex    |   capital-gain |   capital-loss |   hours-per-week | native-country   | salary   |
